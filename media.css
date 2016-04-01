@@ -1,5 +1,34 @@
 
 
+@media (max-width: 768px ) {
+
+	.player-container {
+        text-align: center;
+    }
+
+    .main {
+        padding: 30px;
+        height: 100%;
+    }
+
+    .player {
+        margin-left: 0px;
+        margin-bottom: 10px;
+        height: 90px;
+        text-align: center;
+    }
+
+    .progressbar {
+        height: 20px;
+        width: 100%;
+        padding: 5px 0px;
+    }
+
+    .tracker {
+        margin: 0px;
+    }
+
+}
 
 
 @media screen and ( min-width: 769px) {
