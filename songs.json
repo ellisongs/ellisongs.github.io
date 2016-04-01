@@ -1,6 +1,6 @@
 {
 	"playlists": [{
-        "week": "Week 2",
+        "week": "Collection 2",
 		"startDate": "2016-1-11",
 		"songs": [{
 			"title": "This Year",
@@ -74,7 +74,7 @@
 			"audioURL": "songs/PapaDukie.mp3"
 		}]
 	}, {
-        "week": "Week 1",
+        "week": "Collection 1",
 		"startDate": "2016-1-1",
 		"songs": [{
 			"title": "test1",

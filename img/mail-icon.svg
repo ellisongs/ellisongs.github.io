@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M13.333,0 L2.667,0 C1.2,0 0,1.2 0,2.667 L0,13.333 C0,14.8 1.2,16 2.667,16 L13.333,16 C14.801,16 16,14.8 16,13.333 L16,2.667 C16,1.2 14.801,0 13.333,0 L13.333,0 Z M4,4 L12,4 C12.143,4 12.281,4.031 12.409,4.088 L8,9.231 L3.591,4.088 C3.718,4.03 3.857,4 4,4 L4,4 Z M3,11 L3,5 C3,4.979 3.001,4.958 3.002,4.937 L5.934,8.358 L3.034,11.258 C3.011,11.175 3,11.088 3,11 L3,11 Z M12,12 L4,12 C3.912,12 3.825,11.988 3.742,11.966 L6.588,9.12 L8.001,10.768 L9.414,9.12 L12.26,11.966 C12.177,11.989 12.09,12 12.002,12 L12,12 Z M13,11 C13,11.088 12.988,11.175 12.966,11.258 L10.066,8.358 L12.998,4.937 C12.999,4.958 13,4.979 13,5 L13,11 L13,11 Z" id="Shape" fill="#34314C"></path>
+    </g>
+</svg>
