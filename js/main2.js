@@ -33,7 +33,7 @@ jQuery(document).ready(function() {
 
 
                     // add song to playlist
-                    songs.push('<li audiourl="' + song.audioURL + '" title="' + song.title + '" artist="' + song.artist + '" album="' + song.album + '" year="' + song.year '" class="' + activeClass + '">' + '<div class="playlist-date"> ' + song.date + ' </div>' + '<div class="playlist-title"> ' + song.title + ' </div>' + '<div class="playlist-artist"> ' + song.artist + ' </div>' + '</li>');
+                    songs.push('<li audiourl="' + song.audioURL + '" title="' + song.title + '" artist="' + song.artist + '" album="' + song.album + '" year="' + song.year + '" class="' + activeClass + '">' + '<div class="playlist-title"> ' + song.title + ' </div>' + '<div class="playlist-artist"> ' + song.artist + ' </div>' + '</li>');
                 });
 
         });
@@ -45,10 +45,11 @@ jQuery(document).ready(function() {
             stopAudio();
             initAudio($(this), true);
         });
-        // add today's song info to main are
+        // add today's song info to main area
         $('.title').html(currentSong.title);
         $('.artist').html(currentSong.artist);
         $('.album').html(currentSong.album);
+        $('.year').html(currentSong.year);
         // initialization - first element in playlist
         initAudio($('.playlist li[date="' + currentSong.date + '"]'));
     });
@@ -65,12 +66,14 @@ jQuery(document).ready(function() {
         var date = elem.attr('date');
         var artist = elem.attr('artist');
         var album = elem.attr('album');
+        var year = elem.attr('year');
 
         $('.player .title').text(title);
         $('.playlist .title').text(title);
         $('.player .date').text(date);
         $('.player .artist').text(artist);
         $('.player .album').text(album);
+        $('.player .year').text(year);
         if ($('style')[1]) {
             $('style')[1].remove();
         };
