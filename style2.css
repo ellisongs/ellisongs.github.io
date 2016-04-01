@@ -59,7 +59,7 @@ body{
     font-size: 48px;
     line-height: 1.2;
     font-weight: 700;
-    margin-top: 70px;
+    margin-top: 150px;
 }
 
 .player .artist {
@@ -85,6 +85,7 @@ body{
 
 .controls {
     padding: 10px 0px;
+    margin-top: 50px;
 }
 
 .play {
@@ -270,8 +271,4 @@ body{
     font-size: 14px;
     font-weight: 400;
     color: rgba(0, 0, 0, 0.5);
-}
-
-.playlist-date {
-    display: none !important;
 }
