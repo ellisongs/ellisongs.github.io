@@ -1,139 +1,95 @@
 {
 	"playlists": [{
-        "week": "Collection 2",
+        "week": "Week 2",
+		"startDate": "2016-1-11",
 		"songs": [{
 			"title": "This Year",
 			"artist": "The Mountain Goats",
 			"album": "The Sunset Tree",
 			"year": "2005",
+			"date": "2016-1-11",
 			"audioURL": "songs/ThisYear.mp3"
 		}, {
 			"title": "Jacket",
 			"artist": "David Vandervelde",
 			"album": "The Moonstation House Band",
 			"year": "2007",
+			"date": "2016-1-12",
 			"audioURL": "songs/Jacket.mp3"
 		}, {
 			"title": "The John Wayne",
 			"artist": "Little Green Cars",
 			"album": "Absolute Zero",
 			"year": "2013",
+			"date": "2016-1-13",
 			"audioURL": "songs/TheJohnWayne.mp3"
 		}, {
 			"title": "Forest Whitaker",
 			"artist": "Bad Books",
 			"album": "II",
 			"year": "2012",
+			"date": "2016-1-14",
 			"audioURL": "songs/ForestWhitaker.mp3"
 		}, {
 			"title": "Class Historian",
 			"artist": "BRONCHO",
 			"album": "Just Enough Hip To Be Woman",
 			"year": "2014",
+			"date": "2016-1-15",
 			"audioURL": "songs/ClassHistorian.mp3"
 		}, {
 			"title": "Take It As It Comes",
 			"artist": "J Roddy Walston And The Business",
 			"album": "Essential Tremors",
 			"year": "2013",
+			"date": "2016-1-16",
 			"audioURL": "songs/TakeItComes.mp3"
 		}, {
 			"title": "Television",
 			"artist": "You Won't",
 			"album": "Skeptic Goodbye",
 			"year": "2012",
+			"date": "2016-1-17",
 			"audioURL": "songs/Television.mp3"
 		}, {
 			"title": "Gotta Get Away",
 			"artist": "The Black Keys",
 			"album": "Gotta Get Away",
 			"year": "2014",
+			"date": "2016-1-18",
 			"audioURL": "songs/GottaGetAway.mp3"
 		}, {
 			"title": "Don't Take Back Your Time - Original Mix",
 			"artist": "Foreign Born",
 			"album": "On The Wing Now",
 			"year": "2007",
+			"date": "2016-1-19",
 			"audioURL": "songs/BackYourTime.mp3"
 		}, {
 			"title": "Papa Dukie And The Mud People",
 			"artist": "The Subdudes",
 			"album": "Behind The Levee",
 			"year": "2006",
+			"date": "2016-1-20",
 			"audioURL": "songs/PapaDukie.mp3"
 		}]
 	}, {
-        "week": "Collection 1",
+        "week": "Week 1",
+		"startDate": "2016-1-1",
 		"songs": [{
-			"title": "",
-			"artist": "",
-			"album": "",
-			"year": "",
-			"albumCover": "img/",
-			"audioURL": "songs/.mp3"
+			"title": "test1",
+			"artist": "test",
+			"album": "hello",
+			"year": "2002",
+			"date": "2016-1-1",
+			"audioURL": "songs/PapaDukie.mp3"
 		}, {
-			"title": "",
-			"artist": "",
-			"album": "",
-			"year": "",
-			"albumCover": "img/",
-			"audioURL": "songs/.mp3"
-		}, {
-			"title": "",
-			"artist": "",
-			"album": "",
-			"year": "",
-			"albumCover": "img/",
-			"audioURL": "songs/.mp3"
-		}, {
-			"title": "",
-			"artist": "",
-			"album": "",
-			"year": "",
-			"albumCover": "img/",
-			"audioURL": "songs/.mp3"
-		}, {
-			"title": "",
-			"artist": "",
-			"album": "",
-			"year": "",
-			"albumCover": "img/",
-			"audioURL": "songs/.mp3"
-		}, {
-			"title": "",
-			"artist": "",
-			"album": "",
-			"year": "",
-			"albumCover": "img/",
-			"audioURL": "songs/.mp3"
-		}, {
-			"title": "",
-			"artist": "",
-			"album": "",
-			"year": "",
-			"albumCover": "img/",
-			"audioURL": "songs/.mp3"
-		}, {
-			"title": "",
-			"artist": "",
-			"album": "",
-			"year": "",
-			"albumCover": "img/",
-			"audioURL": "songs/.mp3"
-		}, {
-			"title": "",
-			"artist": "",
-			"album": "",
-			"year": "",
-			"albumCover": "img/",
-			"audioURL": "songs/.mp3"
-		}, {
-			"title": "",
-			"artist": "",
-			"album": "",
-			"year": "",
-			"albumCover": "img/",
-			"audioURL": "songs/.mp3"
-		}] 
+			"title": "Blah",
+			"artist": "blah",
+			"album": "la la",
+			"year": "2001",
+			"date": "2016-1-2",
+			"audioURL": "songs/ThisYear.mp3"
+		}]
 	}]
 }

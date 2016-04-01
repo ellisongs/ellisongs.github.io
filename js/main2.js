@@ -73,8 +73,7 @@ jQuery(document).ready(function() {
         $('.player .album').text(album);
         if ($('style')[1]) {
             $('style')[1].remove();
-        }
-        $('<style>.bgImg:before{background-image:url("' + cover + '");}</style>').appendTo('head');;
+        };
 
 
 
@@ -89,8 +88,6 @@ jQuery(document).ready(function() {
         $('.playlist li').removeClass('active');
         elem.addClass('active');
 
-        // set volume
-        song.volume = 0.8;
 
 
         if (autoPlay) {
@@ -215,9 +212,6 @@ jQuery(document).ready(function() {
         },
         stop: function(event, ui) {}
     });
-    
-    
-
     
     
 });
