@@ -173,7 +173,7 @@ body{
 }
 
 .ui-slider-range {
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(255,116,115,0.8);
     height: 100%;
 }
 
@@ -270,4 +270,8 @@ body{
     font-size: 12px;
     font-weight: 400;
     color: rgba(0, 0, 0, 0.5);
+}
+
+.playlist-date {
+    display: none !important;
 }
