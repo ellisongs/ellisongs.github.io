@@ -1,0 +1,278 @@
+* {
+    -webkit-font-smoothing: antialiased;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    text-rendering:optimizeLegibility;
+    height:100%;
+    margin:0px;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    position: static;
+    overflow: hidden;
+}
+
+.bg {
+    padding: 20px;
+    height: 100vh;
+    background-color: #34314c;
+}
+
+.main {
+    background: white;
+    height: 100%;
+    padding: 60px;
+}
+
+/* PLAYER */
+
+.player-container {
+    height: 100%;
+}
+
+
+.coverImg{
+    height: auto;
+    width: 100%;
+    -webkit-box-shadow: 0px 20px 50px 0px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0px 20px 50px 0px rgba(0,0,0,0.3);
+    box-shadow: 0px 20px 50px 0px rgba(0,0,0,0.3);
+    margin-bottom: 80px;
+}
+
+.player {
+    margin-left: 20px;
+}
+
+.desc {
+    font-family: 'Inconsolata', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    color: #34314c;
+    text-align: center;
+}
+
+.player .title {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: 500;
+    margin-top: 70px;
+    letter-spacing: -0.4px;
+}
+
+.player .artist {
+    font-size: 24px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.8);
+    margin-top: 20px;
+}
+
+.player .album {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.4);
+    margin-top: 3px;
+}
+
+.player .year {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.4);
+    margin-top: 3px;
+}
+
+.controls {
+    padding: 10px 0px;
+}
+
+.play {
+    display: inline-block;
+    height: 30px;
+    margin: 0px 20px;
+    vertical-align: middle;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: all 0.3s ease;
+}
+.play:hover {
+    opacity: 1;
+}
+
+.controls .pause {
+    display: none;
+}
+
+.pause {
+    display: inline-block;
+    height: 30px;
+    margin: 0px 20px;
+    vertical-align: middle;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: all 0.5s ease;
+}
+.pause:hover {
+    opacity: 1;
+}
+
+.rew {
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+    width: 30px;
+    opacity: 0.6;
+    transition: all 0.5s ease;
+}
+.rew:hover {
+    opacity: 0.9;
+}
+
+.fwd {
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+    width: 30px;
+    margin-right: 40px;
+    opacity: 0.6;
+    transition: all 0.5s ease;
+}
+.fwd:hover {
+    opacity: 0.9;
+}
+
+
+
+.hidden {
+    display: none;
+}
+
+.controls .visible {
+    display: inline-block;
+}
+
+.tracker-container {
+    height: 90px;
+    width: 65%;
+    padding: 20px 0px;
+    display: inline-block;
+}
+
+.tracker {
+    display: inline-block;
+    background-color: rgba(0,0,0,0.1);
+    height: 6px;
+    width: 100%;
+    vertical-align: middle;
+    margin-left: 20px;
+    border-radius: 3px;
+    overflow: hidden;
+    margin: 22px 0px;
+    cursor: pointer;
+}
+
+.ui-slider-range {
+    background-color: rgba(0,0,0,0.8);
+    height: 100%;
+}
+
+.ui-slider-handle {
+    cursor: pointer;
+    height: 10px;
+    margin-left: -5px;
+    width: 10px;
+    z-index: 2;
+}
+
+
+
+/* PLAYLIST */
+
+.menu {
+    visibility: hidden;
+}
+
+.playlist-container {
+    height: 80vh;
+}
+
+.playlist {
+    list-style-type: none;
+    color: rgba(0, 0, 0, 0.8);
+    border-left: solid 1px rgba(52, 49, 76, 0.8);
+    height: 90%;
+    padding: 0px 10px;
+    margin: 0;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+.playlist li {
+    cursor: pointer;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    transition: all 0.5s ease;
+}
+
+
+.playlist li.active {
+
+    border-left: solid #34314c 3px;
+    
+}
+
+
+.playlist li.active .playlist-title {
+
+    padding-left: 10px;
+}
+
+.playlist li.active .playlist-artist {
+
+    padding-left: 10px;
+}
+
+.playlist li:first-child {
+    margin-top: 0px;
+}
+
+
+
+.playlist .week {
+    font-family: 'Inconsolata', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    color: rgba(0, 0, 0, 0.3);
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    margin-left: 15px;
+}
+.playlist .week:hover {
+    padding-left: 0px;
+    cursor: default;
+}
+
+.playlist .week:not(:first-child) {
+    border-top: solid 1px rgba(0,0,0,0.1);
+    padding-top: 20px;
+}
+
+/*.playlist-title {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 12px;
+    font-weight: 500;
+    margin-top: 2px;
+}
+
+.playlist-artist {
+    font-size: 12px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+}*/
