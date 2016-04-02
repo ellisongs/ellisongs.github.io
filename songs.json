@@ -1,6 +1,6 @@
 {
 	"playlists": [{
-		"week": "Collection 2",
+		"week": "Collection 2 :: Synth Pop",
 		"startDate": "2016-1-11",
 		"songs": [{
 			"title": "We Sink",
@@ -74,7 +74,7 @@
 			"audioURL": "songs/DancingOnGlass.mp3"
 		}]
 	},	{
-        "week": "Collection 1",
+        "week": "Collection 1 :: New Year",
 		"startDate": "2016-1-1",
 		"songs": [{
 			"title": "This Year",
