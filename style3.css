@@ -254,7 +254,7 @@ body{
 .playlist li.active {
 
     padding-bottom: 5px;
-    border-bottom: solid #ff7473 3px;
+    border-bottom: solid rgba(255, 116, 115, 0.8) 3px;
     
 }
 
@@ -270,7 +270,7 @@ body{
     font-size: 14px;
     font-weight: 700;
     letter-spacing: 1.5px;
-    color: rgba(255, 116, 115, 0.5);
+    color: rgba(255, 116, 115, 0.8);
     text-transform: uppercase;
     margin-bottom: 20px;
     margin-left: 15px;
