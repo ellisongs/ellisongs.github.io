@@ -18,7 +18,7 @@ body{
 }
 
 .bg {
-    padding: 30px;
+    padding: 20px;
     height: 100vh;
     background-color: #34314c;
 }
@@ -309,7 +309,7 @@ body{
 @media (max-width: 768px) {
 
 .bg {
-    padding: 15px;
+    padding: 10px;
 }
 
 .player {
