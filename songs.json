@@ -1,5 +1,79 @@
 {
 	"playlists": [{
+		"week": "Collection 3 :: Indie Pop",
+		"startDate": "2016-1-21",
+		"songs": [{
+			"title": "Diane Young",
+			"artist": "Vampire Weekend",
+			"album": "Modern Vampires Of The City",
+			"year": "2013",
+			"date": "2016-1-21",
+			"audioURL": "songs/DianeYoung.mp3"
+		}, {
+			"title": "Take Me Over",
+			"artist": "Cut Copy",
+			"album": "Zonoscope",
+			"year": "2011",
+			"date": "2016-1-22",
+			"audioURL": "songs/TakeMeOver.mp3"
+		}, {
+			"title": "Cameras",
+			"artist": "Matt and Kim",
+			"album": "Sidewalks",
+			"year": "2010",
+			"date": "2016-1-23",
+			"audioURL": "songs/Cameras.mp3"
+		}, {
+			"title": "Okay",
+			"artist": "Holy Ghost!",
+			"album": "Dynamics",
+			"year": "2013",
+			"date": "2016-1-24",
+			"audioURL": "songs/Okay.mp3"
+		}, {
+			"title": "Morning Sun",
+			"artist": "Strange Talk",
+			"album": "Cast Away",
+			"year": "2012",
+			"date": "2016-1-25",
+			"audioURL": "songs/MorningSun.mp3"
+		}, {
+			"title": "Calling Out",
+			"artist": "Penguin Prison",
+			"album": "Lost in New York",
+			"year": "2015",
+			"date": "2016-1-26",
+			"audioURL": "songs/CallingOut.mp3"
+		}, {
+			"title": "Standing On The Shore",
+			"artist": "Empire of the Sun",
+			"album": "Walking On A Dream",
+			"year": "2008",
+			"date": "2016-1-27",
+			"audioURL": "songs/OnTheShore.mp3"
+		}, {
+			"title": "Little Secrets",
+			"artist": "Passion Pit",
+			"album": "Manners",
+			"year": "2009",
+			"date": "2016-1-28",
+			"audioURL": "songs/LittleSecrets.mp3"
+		}, {
+			"title": "Young Blood",
+			"artist": "The Naked And Famous",
+			"album": "Passive Me, Aggressive You",
+			"year": "2010",
+			"date": "2016-1-29",
+			"audioURL": "songs/YoungBlood.mp3"
+		}, {
+			"title": "Electric Feel - Justice Remix",
+			"artist": "MGMT",
+			"album": "Electric Feel",
+			"year": "2008",
+			"date": "2016-1-30",
+			"audioURL": "songs/ElectricFeel.mp3"
+		}]
+	},	{
 		"week": "Collection 2 :: Synth Pop",
 		"startDate": "2016-1-11",
 		"songs": [{
