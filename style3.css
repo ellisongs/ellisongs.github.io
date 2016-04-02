@@ -308,14 +308,15 @@ body{
 
 @media (max-width: 768px) {
 
+.player {
+    margin-left: 0px;
+    text-align: center;
+}
+
 .desc {
     font-size: 16px;
     font-weight: 700;
     letter-spacing: 1.5px;
-    text-align: center;
-}
-
-.player {
     text-align: center;
 }
 
@@ -373,7 +374,7 @@ body{
     left: 0;
     right: 0;
     position: fixed;
-    bottom: 60px;
+    bottom: 50px;
     width: 150px;
     margin: 0 auto;
     text-align: center;
@@ -402,7 +403,7 @@ body{
 
 .playlist {
     border-left: none;
-    padding-bottom: 100px;
+    padding-bottom: 150px;
 }
 
 .playlist-container {
