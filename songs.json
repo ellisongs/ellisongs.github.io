@@ -1,6 +1,80 @@
 {
 	"playlists": [{
-		"week": "Collection 3 :: Indie Pop",
+		"week": "Collection 4 :: Chill",
+		"startDate": "2016-1-31",
+		"songs": [{
+			"title": "Summer Spliffs",
+			"artist": "Broke For Free",
+			"album": "Petal",
+			"year": "2014",
+			"date": "2016-1-31",
+			"audioURL": "songs/SummerSpliffs.mp3"
+		}, {
+			"title": "Black Crown",
+			"artist": "Silent Rider, Camille Corazon",
+			"album": "Black Crown",
+			"year": "2013",
+			"date": "2016-2-1",
+			"audioURL": "songs/BlackCrown.mp3"
+		}, {
+			"title": "Daydream",
+			"artist": "Tycho",
+			"album": "Dive",
+			"year": "2011",
+			"date": "2016-2-2",
+			"audioURL": "songs/Daydream.mp3"
+		}, {
+			"title": "Weightless Memories",
+			"artist": "Ulrich Schnauss, Jonas Munk",
+			"album": "Ulrich Schnauss and Jonas Munk",
+			"year": "2011",
+			"date": "2016-2-3",
+			"audioURL": "songs/WeightlessMemories.mp3"
+		}, {
+			"title": "Peacock Tail",
+			"artist": "Boards of Canada",
+			"album": "The Campfire Headphase",
+			"year": "2005",
+			"date": "2016-2-4",
+			"audioURL": "songs/PeacockTail.mp3"
+		}, {
+			"title": "Lost In Thought",
+			"artist": "Jon Hopkins",
+			"album": "Opalescent",
+			"year": "2001",
+			"date": "2016-2-5",
+			"audioURL": "songs/LostInThought.mp3"
+		}, {
+			"title": "Clouds",
+			"artist": "Imagined Herbal Flows",
+			"album": "Floating EP",
+			"year": "2014",
+			"date": "2016-2-6",
+			"audioURL": "songs/Clouds.mp3"
+		}, {
+			"title": "Xtal",
+			"artist": "Aphex Twin",
+			"album": "Selected Ambient Works 85 - 92",
+			"year": "1992",
+			"date": "2016-2-7",
+			"audioURL": "songs/Xtal.mp3"
+		}, {
+			"title": "Day Dreaming",
+			"artist": "Inf",
+			"album": "The Go Round",
+			"year": "2011",
+			"date": "2016-2-8",
+			"audioURL": "songs/DayDreaming.mp3"
+		}, {
+			"title": "Singapore",
+			"artist": "Reid",
+			"album": "Fractures",
+			"year": "2014",
+			"date": "2016-2-9",
+			"audioURL": "songs/Singapore.mp3"
+		}]
+	},	{	
+		"week": "Collection 3 :: Indie Pop Picks",
 		"startDate": "2016-1-21",
 		"songs": [{
 			"title": "Diane Young",
@@ -74,7 +148,7 @@
 			"audioURL": "songs/ElectricFeel.mp3"
 		}]
 	},	{
-		"week": "Collection 2 :: Synth Pop",
+		"week": "Collection 2 :: Synth Pop Picks",
 		"startDate": "2016-1-11",
 		"songs": [{
 			"title": "We Sink",
