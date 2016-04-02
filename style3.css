@@ -254,7 +254,6 @@ body{
 .playlist li.active {
 
     padding-bottom: 5px;
-    padding-left: 10px;
     border-bottom: solid #ff7473 3px;
     
 }
@@ -311,6 +310,34 @@ body{
 
 .player {
     text-align: center;
+}
+
+.icon-row {
+    display: none;
+}
+
+.player .title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.player .artist {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.player .album {
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+
+.player .year {
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 5px;
 }
 
 .menu {
