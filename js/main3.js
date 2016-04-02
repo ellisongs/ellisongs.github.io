@@ -33,7 +33,7 @@ jQuery(document).ready(function() {
 
 
                     // add song to playlist
-                    songs.push('<li audiourl="' + song.audioURL + '" title="' + song.title + '" artist="' + song.artist + '" album="' + song.album + '" year="' + song.year + '" class="' + activeClass + '">' + '<div class="playlist-title"> ' + song.title + ' </div>' + '<div class="playlist-artist"> ' + song.artist + ' </div>' + '</li>');
+                    songs.push('<li audiourl="' + song.audioURL + '" title="' + song.title + '" artist="' + song.artist + '" album="' + song.album + '" year="' + song.year + '" class="' + activeClass + '">' + '<span class="playlist-title"> ' + song.title + ' - </span>' + '<span class="playlist-artist"> ' + song.artist + ' </span>' + '</li>');
                 });
 
         });
