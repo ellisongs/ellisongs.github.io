@@ -1,95 +1,151 @@
 {
 	"playlists": [{
-        "week": "Collection 2",
+		"week": "Collection 2",
 		"startDate": "2016-1-11",
+		"songs": [{
+			"title": "We Sink",
+			"artist": "CHVRCHES",
+			"album": "The Bones Of What You Believe (Special Edition)",
+			"year": "2013",
+			"date": "2016-1-11",
+			"audioURL": "songs/WeSink.mp3"
+		}, {
+			"title": "Fineshrine",
+			"artist": "Purity Ring",
+			"album": "Shrines",
+			"year": "2012",
+			"date": "2016-1-12",
+			"audioURL": "songs/Fineshrine.mp3"
+		}, {
+			"title": "Cheap Sunglasses",
+			"artist": "RAC, Matthew Koma",
+			"album": "Strangers",
+			"year": "2014",
+			"date": "2016-1-13",
+			"audioURL": "songs/CheapSunglasses.mp3"
+		}, {
+			"title": "Fantasy",
+			"artist": "MS MR",
+			"album": "Secondhand Rapture",
+			"year": "2013",
+			"date": "2016-1-14",
+			"audioURL": "songs/Fantasy.mp3"
+		}, {
+			"title": "Vagabond",
+			"artist": "MisterWives",
+			"album": "Our Own House",
+			"year": "2015",
+			"date": "2016-1-15",
+			"audioURL": "songs/Vagabond.mp3"
+		}, {
+			"title": "If You Wanna Stay",
+			"artist": "The Griswolds",
+			"album": "Be Impressive",
+			"year": "2014",
+			"date": "2016-1-16",
+			"audioURL": "songs/WannaStay.mp3"
+		}, {
+			"title": "10,000 Emerald Pools",
+			"artist": "BORNS",
+			"album": "Dopamine",
+			"year": "2015",
+			"date": "2016-1-17",
+			"audioURL": "songs/EmeraldPools.mp3"
+		}, {
+			"title": "Annie",
+			"artist": "Neon Indian",
+			"album": "Vega Intl. Night School",
+			"year": "2015",
+			"date": "2016-1-18",
+			"audioURL": "songs/Annie.mp3"
+		}, {
+			"title": "New Beat",
+			"artist": "Toro y Moi",
+			"album": "Underneath The Pine",
+			"year": "2011",
+			"date": "2016-1-19",
+			"audioURL": "songs/NewBeat.mp3"
+		}, {
+			"title": "Dancing On Glass",
+			"artist": "St. Lucia",
+			"album": "Matter",
+			"year": "2016",
+			"date": "2016-1-20",
+			"audioURL": "songs/DancingOnGlass.mp3"
+		}]
+	},	{
+        "week": "Collection 1",
+		"startDate": "2016-1-1",
 		"songs": [{
 			"title": "This Year",
 			"artist": "The Mountain Goats",
 			"album": "The Sunset Tree",
 			"year": "2005",
-			"date": "2016-1-11",
+			"date": "2016-1-1",
 			"audioURL": "songs/ThisYear.mp3"
 		}, {
 			"title": "Jacket",
 			"artist": "David Vandervelde",
 			"album": "The Moonstation House Band",
 			"year": "2007",
-			"date": "2016-1-12",
+			"date": "2016-1-2",
 			"audioURL": "songs/Jacket.mp3"
 		}, {
 			"title": "The John Wayne",
 			"artist": "Little Green Cars",
 			"album": "Absolute Zero",
 			"year": "2013",
-			"date": "2016-1-13",
+			"date": "2016-1-3",
 			"audioURL": "songs/TheJohnWayne.mp3"
 		}, {
 			"title": "Forest Whitaker",
 			"artist": "Bad Books",
 			"album": "II",
 			"year": "2012",
-			"date": "2016-1-14",
+			"date": "2016-1-4",
 			"audioURL": "songs/ForestWhitaker.mp3"
 		}, {
 			"title": "Class Historian",
 			"artist": "BRONCHO",
 			"album": "Just Enough Hip To Be Woman",
 			"year": "2014",
-			"date": "2016-1-15",
+			"date": "2016-1-5",
 			"audioURL": "songs/ClassHistorian.mp3"
 		}, {
 			"title": "Take It As It Comes",
 			"artist": "J Roddy Walston And The Business",
 			"album": "Essential Tremors",
 			"year": "2013",
-			"date": "2016-1-16",
+			"date": "2016-1-6",
 			"audioURL": "songs/TakeItComes.mp3"
 		}, {
 			"title": "Television",
 			"artist": "You Won't",
 			"album": "Skeptic Goodbye",
 			"year": "2012",
-			"date": "2016-1-17",
+			"date": "2016-1-7",
 			"audioURL": "songs/Television.mp3"
 		}, {
 			"title": "Gotta Get Away",
 			"artist": "The Black Keys",
 			"album": "Gotta Get Away",
 			"year": "2014",
-			"date": "2016-1-18",
+			"date": "2016-1-8",
 			"audioURL": "songs/GottaGetAway.mp3"
 		}, {
 			"title": "Don't Take Back Your Time - Original Mix",
 			"artist": "Foreign Born",
 			"album": "On The Wing Now",
 			"year": "2007",
-			"date": "2016-1-19",
+			"date": "2016-1-9",
 			"audioURL": "songs/BackYourTime.mp3"
 		}, {
 			"title": "Papa Dukie And The Mud People",
 			"artist": "The Subdudes",
 			"album": "Behind The Levee",
 			"year": "2006",
-			"date": "2016-1-20",
+			"date": "2016-1-10",
 			"audioURL": "songs/PapaDukie.mp3"
-		}]
-	}, {
-        "week": "Collection 1",
-		"startDate": "2016-1-1",
-		"songs": [{
-			"title": "test1",
-			"artist": "test",
-			"album": "hello",
-			"year": "2002",
-			"date": "2016-1-1",
-			"audioURL": "songs/PapaDukie.mp3"
-		}, {
-			"title": "Blah",
-			"artist": "blah",
-			"album": "la la",
-			"year": "2001",
-			"date": "2016-1-2",
-			"audioURL": "songs/ThisYear.mp3"
 		}]
 	}]
 }
