@@ -158,12 +158,12 @@
 			"date": "2016-2-10",
 			"audioURL": "songs/TouchOfGrey.mp3"
 		}, {
-			"title": "Whipping Post",
-			"artist": "The Allman Brothers Band",
-			"album": "The Allman Brothers Band",
-			"year": "1969",
+			"title": "Like A Rolling Stone",
+			"artist": "Bob Dylan",
+			"album": "Highway 61 Revisited",
+			"year": "1965",
 			"date": "2016-2-11",
-			"audioURL": "songs/WhippingPost.mp3"
+			"audioURL": "songs/LikeARollingStone.mp3"
 		}, {
 			"title": "Soulshine",
 			"artist": "Gov't Mule",
