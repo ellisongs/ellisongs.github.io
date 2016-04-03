@@ -1,5 +1,79 @@
 {
 	"playlists": [{
+		"week": "Collection 10 :: April",
+		"startDate": "2016-3-31",
+		"songs": [{
+			"title": "I Can Change - Stereogamous Remix",
+			"artist": "LCD Soundsystem",
+			"album": "I Can Change",
+			"year": "2010",
+			"date": "2016-3-31",
+			"audioURL": "songs/ICanChange.mp3"
+		}, {
+			"title": "Sprawl II (Mountains Beyond Mountains)",
+			"artist": "Arcade Fire",
+			"album": "The Suburbs Deluxe",
+			"year": "2011",
+			"date": "2016-4-1",
+			"audioURL": "songs/SprawlII.mp3"
+		}, {
+			"title": "To You",
+			"artist": "Young Wonder",
+			"album": "To You",
+			"year": "2012",
+			"date": "2016-4-2",
+			"audioURL": "songs/ToYou.mp3"
+		}, {
+			"title": "Wicked Games - Radio Edit",
+			"artist": "Parra for Cuva, Anna Naklab",
+			"album": "Wicked Games",
+			"year": "2013",
+			"date": "2016-4-3",
+			"audioURL": "songs/WickedGames.mp3"
+		}, {
+			"title": "Muy Tranquilo",
+			"artist": "Gramatik",
+			"album": "SB3",
+			"year": "2014",
+			"date": "2016-4-4",
+			"audioURL": "songs/MuyTranquilo.mp3"
+		}, {
+			"title": "Freak Caroline - Almond and Samme Remix",
+			"artist": "Sterling Fox",
+			"album": "Freak Caroline (Freak Remixes)",
+			"year": "2015",
+			"date": "2016-4-5",
+			"audioURL": "songs/FreakCaroline.mp3"
+		}, {
+			"title": "DVNO",
+			"artist": "Justice",
+			"album": "Cross",
+			"year": "2007",
+			"date": "2016-4-6",
+			"audioURL": "songs/DVNO.mp3"
+		}, {
+			"title": "Three Weeks",
+			"artist": "Perpetual Groove",
+			"album": "Sweet Oblivious Antidote",
+			"year": "2003",
+			"date": "2016-4-7",
+			"audioURL": "songs/ThreeWeeks.mp3"
+		}, {
+			"title": "Generator",
+			"artist": "The Holloways",
+			"album": "So This Is Great Britain?",
+			"year": "2006",
+			"date": "2016-4-8",
+			"audioURL": "songs/Generator.mp3"
+		}, {
+			"title": "Dumb Disco Ideas",
+			"artist": "Holy Ghost!",
+			"album": "Dynamics",
+			"year": "2013",
+			"date": "2016-4-9",
+			"audioURL": "songs/DumbDiscoIdeas.mp3"
+		}]
+	},	{
 		"week": "Collection 9 :: Electronica Picks",
 		"startDate": "2016-3-21",
 		"songs": [{
