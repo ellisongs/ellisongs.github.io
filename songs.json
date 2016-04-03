@@ -1,5 +1,79 @@
 {
 	"playlists": [{
+		"week": "Collection 9 :: Electronica Picks",
+		"startDate": "2016-3-21",
+		"songs": [{
+			"title": "There might be coffee",
+			"artist": "deadmau5",
+			"album": "> album title goes here <",
+			"year": "2012",
+			"date": "2016-3-21",
+			"audioURL": "songs/BeCoffee.mp3"
+		}, {
+			"title": "End of Line (Remixed by Photek)",
+			"artist": "Photek, Daft Punk",
+			"album": "TRON: Legacy Reconfigured",
+			"year": "2011",
+			"date": "2016-3-22",
+			"audioURL": "songs/EndOfLine.mp3"
+		}, {
+			"title": "Big Bounce",
+			"artist": "ShockOne",
+			"album": "Universus",
+			"year": "2013",
+			"date": "2016-3-23",
+			"audioURL": "songs/BigBounce.mp3"
+		}, {
+			"title": "Guitar Sound",
+			"artist": "Ronald Jenkees",
+			"album": "Disorganized Fun",
+			"year": "2009",
+			"date": "2016-3-24",
+			"audioURL": "songs/GuitarSound.mp3"
+		}, {
+			"title": "Cheat Codes",
+			"artist": "Nitro Fun",
+			"album": "Monstercat 017 - Ascension",
+			"year": "2014",
+			"date": "2016-3-25",
+			"audioURL": "songs/CheatCodes.mp3"
+		}, {
+			"title": "Illmerica",
+			"artist": "Wolfgang Gartner",
+			"album": "Weekend In America",
+			"year": "2011",
+			"date": "2016-3-26",
+			"audioURL": "songs/Illmerica.mp3"
+		}, {
+			"title": "Power Glove",
+			"artist": "Knife Party",
+			"album": "Haunted House",
+			"year": "2013",
+			"date": "2016-3-27",
+			"audioURL": "songs/PowerGlove.mp3"
+		}, {
+			"title": "Contact - Original Mix",
+			"artist": "OVERWERK",
+			"album": "The Nth",
+			"year": "2012",
+			"date": "2016-3-28",
+			"audioURL": "songs/Contact.mp3"
+		}, {
+			"title": "Turbo Penguin",
+			"artist": "Sound Remedy, Nitro Fun",
+			"album": "Turbo Penguin",
+			"year": "2014",
+			"date": "2016-3-29",
+			"audioURL": "songs/TurboPenguin.mp3"
+		}, {
+			"title": "Loud Pipes",
+			"artist": "Ratatat",
+			"album": "Classics",
+			"year": "2006",
+			"date": "2016-3-30",
+			"audioURL": "songs/LoudPipes.mp3"
+		}]
+	},	{
 		"week": "Collection 8 :: Piano Rock Picks",
 		"startDate": "2016-3-11",
 		"songs": [{
