@@ -236,7 +236,7 @@ body{
     list-style-type: none;
     color: rgba(0, 0, 0, 0.8);
     border-left: solid 1px rgba(52, 49, 76, 0.8);
-    height: 90%;
+    height: 100%;
     padding: 0px 10px;
     margin: 0;
     overflow: scroll;
@@ -407,7 +407,7 @@ body{
 
 .playlist {
     border-left: none;
-    padding-bottom: 150px;
+    padding-bottom: 200px;
 }
 
 .playlist-container {
