@@ -1,5 +1,79 @@
 {
 	"playlists": [{
+		"week": "Collection 8 :: Piano Rock Picks",
+		"startDate": "2016-3-11",
+		"songs": [{
+			"title": "Great Balls Of Fire",
+			"artist": "Jerry Lee Lewis",
+			"album": "Jerry Lee's Greatest",
+			"year": "1961",
+			"date": "2016-3-11",
+			"audioURL": "songs/GreatBallsOfFire.mp3"
+		}, {
+			"title": "All The Way From Memphis",
+			"artist": "Mott The Hoople",
+			"album": "Mott",
+			"year": "1973",
+			"date": "2016-3-12",
+			"audioURL": "songs/FromMemphis.mp3"
+		}, {
+			"title": "One Angry Dwarf And 200 Solemn Faces",
+			"artist": "Ben Folds Five",
+			"album": "Whatever And Ever Amen",
+			"year": "1997",
+			"date": "2016-3-13",
+			"audioURL": "songs/OneAngryDwarf.mp3"
+		}, {
+			"title": "Tuesday's Gone",
+			"artist": "Lynyrd Skynyrd",
+			"album": "Pronounced 'Leh-'nerd 'Skin-'nerd",
+			"year": "1973",
+			"date": "2016-3-14",
+			"audioURL": "songs/TuesdaysGone.mp3"
+		}, {
+			"title": "Thunder Road",
+			"artist": "Bruce Springsteen",
+			"album": "Born To Run",
+			"year": "1975",
+			"date": "2016-3-15",
+			"audioURL": "songs/ThunderRoad.mp3"
+		}, {
+			"title": "Crocodile Rock",
+			"artist": "Elton John",
+			"album": "Elton John's Greatest Hits",
+			"year": "1990",
+			"date": "2016-3-16",
+			"audioURL": "songs/CrocodileRock.mp3"
+		}, {
+			"title": "Walking In Memphis",
+			"artist": "Marc Cohn",
+			"album": "Marc Cohn",
+			"year": "1991",
+			"date": "2016-3-17",
+			"audioURL": "songs/WalkingInMemphis.mp3"
+		}, {
+			"title": "Mandolin Rain",
+			"artist": "Bruce Hornsby & The Range",
+			"album": "The Way It Is",
+			"year": "1986",
+			"date": "2016-3-18",
+			"audioURL": "songs/MandolinRain.mp3"
+		}, {
+			"title": "Benny The Bouncer",
+			"artist": "Emerson, Lake & Palmer",
+			"album": "Brain Salad Surgery",
+			"year": "1973",
+			"date": "2016-3-19",
+			"audioURL": "songs/BennyTheBouncer.mp3"
+		}, {
+			"title": "Prelude / Angry Young Man",
+			"artist": "Billy Joel",
+			"album": "Turnstiles",
+			"year": "1976",
+			"date": "2016-3-20",
+			"audioURL": "songs/AngryYoungMan.mp3"
+		}]
+	},	{
 		"week": "Collection 7 :: Live Recordings",
 		"startDate": "2016-3-1",
 		"songs": [{
