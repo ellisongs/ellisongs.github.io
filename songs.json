@@ -1,5 +1,79 @@
 {
 	"playlists": [{
+		"week": "Collection 11 :: April Take 2",
+		"startDate": "2016-4-10",
+		"songs": [{
+			"title": "I Already Forgot Everything You Said",
+			"artist": "The Dig",
+			"album": "Midnight Flowers",
+			"year": "2012",
+			"date": "2016-4-10",
+			"audioURL": "songs/IAlreadyForgot.mp3"
+		}, {
+			"title": "Do What You Do When The Time Is Right When You're Feeling How You Feel",
+			"artist": "A Million Billion Dying Suns",
+			"album": "Do What You Do When The Time Is Right When You're Feeling How You Feel",
+			"year": "2007",
+			"date": "2016-4-11",
+			"audioURL": "songs/AMillionBillion.mp3"
+		}, {
+			"title": "Heartbeat",
+			"artist": "Satellite Stories",
+			"album": "Heartbeat",
+			"year": "2007",
+			"date": "2016-4-12",
+			"audioURL": "songs/Heartbeat.mp3"
+		}, {
+			"title": "New Mistake",
+			"artist": "Jellyfish",
+			"album": "Spilt Milk",
+			"year": "2013",
+			"date": "2016-4-13",
+			"audioURL": "songs/NewMistake.mp3"
+		}, {
+			"title": "Wave Forms",
+			"artist": "Islands",
+			"album": "Ski Mask",
+			"year": "2013",
+			"date": "2016-4-14",
+			"audioURL": "songs/WaveForms.mp3"
+		}, {
+			"title": "San Francisco",
+			"artist": "The Mowgli's",
+			"album": "Waiting For The Dawn",
+			"year": "2013",
+			"date": "2016-4-15",
+			"audioURL": "songs/SanFrancisco.mp3"
+		}, {
+			"title": "Ways To Go",
+			"artist": "Grouplove",
+			"album": "Spreading Rumours",
+			"year": "1993",
+			"date": "2016-4-16",
+			"audioURL": "songs/WaysToGo.mp3"
+		}, {
+			"title": "When Did Your Heart Go Missing?",
+			"artist": "Rooney",
+			"album": "Calling The World",
+			"year": "2015",
+			"date": "2016-4-17",
+			"audioURL": "songs/HeartGoMissing.mp3"
+		}, {
+			"title": "Ruby",
+			"artist": "Kaiser Chiefs",
+			"album": "Yours Truly, Angry Mob",
+			"year": "2013",
+			"date": "2016-4-18",
+			"audioURL": "songs/Ruby.mp3"
+		}, {
+			"title": "Recovery",
+			"artist": "Frank Turner",
+			"album": "Tape Deck Heart (Deluxe Edition)",
+			"year": "2012",
+			"date": "2016-4-19",
+			"audioURL": "songs/Recovery.mp3"
+		}]
+	},	{
 		"week": "Collection 10 :: April",
 		"startDate": "2016-3-31",
 		"songs": [{
