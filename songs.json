@@ -1,5 +1,79 @@
 {
 	"playlists": [{
+		"week": "Collection 12 :: April Take 3",
+		"startDate": "2016-4-20",
+		"songs": [{
+			"title": "Buttons",
+			"artist": "The Weeks",
+			"album": "Comback Cadillac",
+			"year": "2008",
+			"date": "2016-4-20",
+			"audioURL": "songs/Buttons.mp3"
+		}, {
+			"title": "Dark Again",
+			"artist": "Gold Fields",
+			"album": "Black Sun",
+			"year": "2013",
+			"date": "2016-4-21",
+			"audioURL": "songs/DarkAgain.mp3"
+		}, {
+			"title": "Cloud Cruise",
+			"artist": "Pomo",
+			"album": "The Other Day",
+			"year": "2014",
+			"date": "2016-4-22",
+			"audioURL": "songs/CloudCruise.mp3"
+		}, {
+			"title": "Comfortable",
+			"artist": "The Aston Shuffle",
+			"album": "Photographs",
+			"year": "2014",
+			"date": "2016-4-23",
+			"audioURL": "songs/Comfortable.mp3"
+		}, {
+			"title": "Adventure",
+			"artist": "Cheat Codes, Evan Gartner",
+			"album": "Adventure",
+			"year": "2015",
+			"date": "2016-4-24",
+			"audioURL": "songs/Adventure.mp3"
+		}, {
+			"title": "Jealousy",
+			"artist": "Robert DeLong",
+			"album": "In The Cards",
+			"year": "2015",
+			"date": "2016-4-25",
+			"audioURL": "songs/Jealousy.mp3"
+		}, {
+			"title": "Molecules - Single Version",
+			"artist": "Atlas Genius",
+			"album": "Molecules",
+			"year": "2015",
+			"date": "2016-4-26",
+			"audioURL": "songs/Molecules.mp3"
+		}, {
+			"title": "Firework",
+			"artist": "Hollywood Principle",
+			"album": "Firework",
+			"year": "2015",
+			"date": "2016-4-27",
+			"audioURL": "songs/Firework.mp3"
+		}, {
+			"title": "Don't Sing (feat. Benny Sings)",
+			"artist": "Data, Benny Sings",
+			"album": "Don't Sing",
+			"year": "2015",
+			"date": "2016-4-28",
+			"audioURL": "songs/DontSing.mp3"
+		}, {
+			"title": "You're On",
+			"artist": "Madeon, Kyan",
+			"album": "You're On",
+			"year": "2014",
+			"date": "2016-4-29",
+			"audioURL": "songs/YoureOn.mp3"
+		}]
+	},	{
 		"week": "Collection 11 :: April Take 2",
 		"startDate": "2016-4-10",
 		"songs": [{
