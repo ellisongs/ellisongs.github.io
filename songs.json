@@ -1,6 +1,80 @@
 {
 	"playlists": [{
-		"week": "Collection 12 :: April Take 3",
+		"week": "Collection 13",
+		"startDate": "2016-4-30",
+		"songs": [{
+			"title": "Running",
+			"artist": "Moderat",
+			"album": "III",
+			"year": "2016",
+			"date": "2016-4-30",
+			"audioURL": "songs/Running.mp3"
+		}, {
+			"title": "War Zone",
+			"artist": "JR JR",
+			"album": "The Speed of Things",
+			"year": "2013",
+			"date": "2016-5-1",
+			"audioURL": "songs/WarZone.mp3"
+		}, {
+			"title": "My Mistakes Were Made For You",
+			"artist": "The Last Shadow Puppets",
+			"album": "The Age Of The Understanding",
+			"year": "2008",
+			"date": "2016-5-2",
+			"audioURL": "songs/MyMistakesWereMadeForYou.mp3"
+		}, {
+			"title": "R U Mine?",
+			"artist": "Arctic Monkeys",
+			"album": "AM",
+			"year": "2013",
+			"date": "2016-5-3",
+			"audioURL": "songs/RUMine.mp3"
+		}, {
+			"title": "Time For Heroes",
+			"artist": "The Libertines",
+			"album": "Up The Bracket",
+			"year": "2002",
+			"date": "2016-5-4",
+			"audioURL": "songs/TimeForHeroes.mp3"
+		}, {
+			"title": "Our Velocity",
+			"artist": "Maximo Park",
+			"album": "Our Earthly Pleasures",
+			"year": "2007",
+			"date": "2016-5-5",
+			"audioURL": "songs/OurVelocity.mp3"
+		}, {
+			"title": "Ash/Black Veil",
+			"artist": "Apparat",
+			"album": "The Devil's Walk",
+			"year": "2011",
+			"date": "2016-5-6",
+			"audioURL": "songs/AshBlackVeil.mp3"
+		}, {
+			"title": "The Birds",
+			"artist": "Telefon Tel Aviv",
+			"album": "Immolate Yourself",
+			"year": "2009",
+			"date": "2016-5-7",
+			"audioURL": "songs/TheBirds.mp3"
+		}, {
+			"title": "Sea",
+			"artist": "Itro, Cediv",
+			"album": "Sea",
+			"year": "2014",
+			"date": "2016-5-8",
+			"audioURL": "songs/Sea.mp3"
+		}, {
+			"title": "Masked Heroes",
+			"artist": "Vexento",
+			"album": "Masked Heroes",
+			"year": "2014",
+			"date": "2016-5-9",
+			"audioURL": "songs/MaskedHeroes.mp3"
+		}]
+	},	{
+		"week": "Collection 12",
 		"startDate": "2016-4-20",
 		"songs": [{
 			"title": "Buttons",
@@ -74,7 +148,7 @@
 			"audioURL": "songs/YoureOn.mp3"
 		}]
 	},	{
-		"week": "Collection 11 :: April Take 2",
+		"week": "Collection 11",
 		"startDate": "2016-4-10",
 		"songs": [{
 			"title": "I Already Forgot Everything You Said",
@@ -148,7 +222,7 @@
 			"audioURL": "songs/Recovery.mp3"
 		}]
 	},	{
-		"week": "Collection 10 :: April",
+		"week": "Collection 10",
 		"startDate": "2016-3-31",
 		"songs": [{
 			"title": "I Can Change - Stereogamous Remix",
