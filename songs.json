@@ -1,5 +1,79 @@
 {
 	"playlists": [{
+		"week": "Collection 15",
+		"startDate": "2016-5-20",
+		"songs": [{
+			"title": "Idea Of Happiness - Original",
+			"artist": "Van She",
+			"album": "Idea Of Happiness",
+			"year": "2012",
+			"date": "2016-5-20",
+			"audioURL": "songs/IdeaOfHappiness.mp3"
+		}, {
+			"title": "Love Lust",
+			"artist": "King Charles",
+			"album": "LoveBlood",
+			"year": "2012",
+			"date": "2016-5-21",
+			"audioURL": "songs/LoveLust.mp3"
+		}, {
+			"title": "Sleep",
+			"artist": "The Heavy Pets",
+			"album": "Whale (Part One)",
+			"year": "2007",
+			"date": "2016-5-22",
+			"audioURL": "songs/Sleep.mp3"
+		}, {
+			"title": "Nature",
+			"artist": "WALLA",
+			"album": "Nature EP",
+			"year": "2013",
+			"date": "2016-5-23",
+			"audioURL": "songs/Nature.mp3"
+		}, {
+			"title": "It Gets Better",
+			"artist": "The Preatures",
+			"album": "Blue Planet Eyes",
+			"year": "2014",
+			"date": "2016-5-24",
+			"audioURL": "songs/ItGetsBetter.mp3"
+		}, {
+			"title": "7/4 (Shoreline)",
+			"artist": "Broken Social Scene",
+			"album": "Broken Social Scene",
+			"year": "2005",
+			"date": "2016-5-25",
+			"audioURL": "songs/Shoreline.mp3"
+		}, {
+			"title": "Osaka Loop Line",
+			"artist": "Discovery",
+			"album": "LP",
+			"year": "2009",
+			"date": "2016-5-26",
+			"audioURL": "songs/OsakaLoopLine.mp3"
+		}, {
+			"title": "Two Weeks",
+			"artist": "Grizzly Bear",
+			"album": "Veckatimest",
+			"year": "2009",
+			"date": "2016-5-27",
+			"audioURL": "songs/TwoWeeks.mp3"
+		}, {
+			"title": "This Disorder",
+			"artist": "The Features",
+			"album": "The Features",
+			"year": "2013",
+			"date": "2016-5-28",
+			"audioURL": "songs/ThisDisorder.mp3"
+		}, {
+			"title": "Moniker",
+			"artist": "Bearstronaut",
+			"album": "Moniker - Single",
+			"year": "2011",
+			"date": "2016-5-29",
+			"audioURL": "songs/Moniker.mp3"
+		}]
+	},	{
 		"week": "Collection 14",
 		"startDate": "2016-5-10",
 		"songs": [{
