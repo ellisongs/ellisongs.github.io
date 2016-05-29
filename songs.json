@@ -1,5 +1,79 @@
 {
 	"playlists": [{
+		"week": "Collection 16",
+		"startDate": "2016-5-30",
+		"songs": [{
+			"title": "Gates",
+			"artist": "Speak",
+			"album": "Pedals",
+			"year": "2014",
+			"date": "2016-5-30",
+			"audioURL": "songs/Gates.mp3"
+		}, {
+			"title": "Hymnals",
+			"artist": "Grizfolk",
+			"album": "From The Spark",
+			"year": "2014",
+			"date": "2016-5-31",
+			"audioURL": "songs/Hymnals.mp3"
+		}, {
+			"title": "Wait, Wait, Wait",
+			"artist": "Northern Faces",
+			"album": "Northern Faces",
+			"year": "2015",
+			"date": "2016-6-1",
+			"audioURL": "songs/WaitWaitWait.mp3"
+		}, {
+			"title": "Colour",
+			"artist": "Wild Cub",
+			"album": "Youth",
+			"year": "2014",
+			"date": "2016-6-2",
+			"audioURL": "songs/Colour.mp3"
+		}, {
+			"title": "The Sunshine of Your Youth",
+			"artist": "Cheerleader",
+			"album": "The Sunshine of Your Youth",
+			"year": "2015",
+			"date": "2016-6-3",
+			"audioURL": "songs/SunshineYouth.mp3"
+		}, {
+			"title": "Hacienda Motel",
+			"artist": "Pickwick",
+			"album": "Can't Talk Medicine",
+			"year": "2013",
+			"date": "2016-6-4",
+			"audioURL": "songs/HaciendaMotel.mp3"
+		}, {
+			"title": "Days",
+			"artist": "The Drums",
+			"album": "Portamento",
+			"year": "2011",
+			"date": "2016-6-5",
+			"audioURL": "songs/Days.mp3"
+		}, {
+			"title": "Into The Wild",
+			"artist": "LP",
+			"album": "Forever For Now",
+			"year": "2014",
+			"date": "2016-6-6",
+			"audioURL": "songs/IntoTheWild.mp3"
+		}, {
+			"title": "Zimbabwe",
+			"artist": "New Navy",
+			"album": "Zimbabwe",
+			"year": "2011",
+			"date": "2016-6-7",
+			"audioURL": "songs/Zimbabwe.mp3"
+		}, {
+			"title": "My Leather, My Fur, My Nails",
+			"artist": "Stepdad",
+			"album": "Wildlife Pop",
+			"year": "2012",
+			"date": "2016-6-8",
+			"audioURL": "songs/MyLeather.mp3"
+		}]
+	}	,{
 		"week": "Collection 15",
 		"startDate": "2016-5-20",
 		"songs": [{
