@@ -38,7 +38,7 @@ body{
 }
 
 .player {
-    margin-left: 20px;
+    margin-left: 0px;
 }
 
 .desc {
@@ -85,7 +85,6 @@ body{
     margin: 0px 20px;
 }
 
-
 .player .title {
     color: rgba(52, 49, 76, 0.9);
     font-size: 48px;
@@ -118,7 +117,15 @@ body{
 .controls {
     padding: 10px 0px;
     margin-top: 50px;
-    text-align: center;
+    text-align: right;
+}
+
+.time-control {
+    font-size: 24px;
+    font-weight: 400;
+    color: rgba(52, 49, 76, 0.8);
+    margin-top: 20px;
+    vertical-align: middle;
 }
 
 .play {
@@ -175,8 +182,6 @@ body{
 .fwd:hover {
     opacity: 0.9;
 }
-
-
 
 .hidden {
     display: none;
@@ -368,7 +373,7 @@ body{
 }
 
 .menu {
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 12px;
     letter-spacing: 2px;

@@ -47,11 +47,11 @@
             });
             
             $('.menu').click(function() {
-            if ($(this).text() === 'VIEW SONGS') {
+            if ($(this).text() === 'SHOW SONGS') {
                  $(this).text('HIDE SONGS');
             }
             else {
-                $(this).text('VIEW SONGS');
+                $(this).text('SHOW SONGS');
             }
             });
             
@@ -99,13 +99,16 @@
                                     <div class="play"><img src="img/play-icon.svg"></div>
                                     <div class="pause"><img src="img/pause-icon.svg"></div>
                                     <div class="fwd"><img src="img/forward-icon.svg"></div>
+                                    <span class="time-control current-time">0:00</span>
+                                    <span class="time-control">/</span>
+                                    <span class="time-control total-time">0:00</span>
                                     <div class="tracker-container">
                                         <div class="tracker"></div>
                                     </div>
                                     
                                 </div>
                                 <!--ONLY APPEARS FOR THIN WINDOW-->
-                                <div class="menu">VIEW SONGS</div>
+                                <div class="menu">SHOW SONGS</div>
                             </div>
                         </div>
                     </div>
