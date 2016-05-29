@@ -117,15 +117,7 @@ body{
 .controls {
     padding: 10px 0px;
     margin-top: 50px;
-    text-align: right;
-}
-
-.time-control {
-    font-size: 24px;
-    font-weight: 400;
-    color: rgba(52, 49, 76, 0.8);
-    margin-top: 20px;
-    vertical-align: middle;
+    text-align: left;
 }
 
 .play {

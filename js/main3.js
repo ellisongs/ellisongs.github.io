@@ -23,7 +23,6 @@ jQuery(document).ready(function() {
     $.getJSON('songs.json', function(data) {
         var songs = [];
         var currentSong = data.playlists[0].songs[0];
-        var duration = audioElement.duration;
         var currentWeek;
 
         // loop through list of songs
@@ -56,8 +55,6 @@ jQuery(document).ready(function() {
         $('.artist').html(currentSong.artist);
         $('.album').html(currentSong.album);
         $('.year').html(currentSong.year);
-        // add current song's duration info to controls area
-        $('.total-time').html(currentSong.duration);
         // initialization - first element in playlist
         initAudio($('.playlist li[date="' + currentSong.date + '"]'));
     });
