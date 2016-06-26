@@ -1,5 +1,227 @@
 {
 	"playlists": [{
+		"week": "Collection 19",
+		"startDate": "2016-6-29",
+		"songs": [{
+			"title": "Breathing Underwater",
+			"artist": "Metric",
+			"album": "Synthetica",
+			"year": "2012",
+			"date": "2016-6-29",
+			"audioURL": "songs/BreathingUnderwater.mp3"
+		}, {
+			"title": "Santa Fe",
+			"artist": "Beirut",
+			"album": "The Rip Tide",
+			"year": "2011",
+			"date": "2016-6-30",
+			"audioURL": "songs/SantaFe.mp3"
+		}, {
+			"title": "Overdose",
+			"artist": "Little Daylight",
+			"album": "Hello Memory",
+			"year": "2014",
+			"date": "2016-7-1",
+			"audioURL": "songs/Overdose.mp3"
+		}, {
+			"title": "Day Dreams",
+			"artist": "Midi Matilda",
+			"album": "Red Light District",
+			"year": "2013",
+			"date": "2016-7-2",
+			"audioURL": "songs/DayDreams.mp3"
+		}, {
+			"title": "Get Gone",
+			"artist": "White Arrows",
+			"album": "Dry Land Is Not A Myth",
+			"year": "2012",
+			"date": "2016-7-3",
+			"audioURL": "songs/GetGone.mp3"
+		}, {
+			"title": "Away Frm U",
+			"artist": "Oberhofer",
+			"album": "Time Capsules II",
+			"year": "2012",
+			"date": "2016-7-4",
+			"audioURL": "songs/AwayFrmU.mp3"
+		}, {
+			"title": "The Line",
+			"artist": "Phish",
+			"album": "Fuego",
+			"year": "2014",
+			"date": "2016-7-5",
+			"audioURL": "songs/TheLine.mp3"
+		}, {
+			"title": "Heartbeat",
+			"artist": "Kopecky",
+			"album": "Kids Raising Kids",
+			"year": "2013",
+			"date": "2016-7-6",
+			"audioURL": "songs/Heartbeat_Kopecky.mp3"
+		}, {
+			"title": "All Those Friendly People",
+			"artist": "Funeral Suits",
+			"album": "All Those Friendly People",
+			"year": "2012",
+			"date": "2016-7-7",
+			"audioURL": "songs/AllThoseFriendlyPeople.mp3"
+		}, {
+			"title": "Last Forever",
+			"artist": "Fenech-Soler",
+			"album": "Rituals (Special Edition)",
+			"year": "2014",
+			"date": "2016-7-8",
+			"audioURL": "songs/LastForever.mp3"
+		}]
+	},	{
+		"week": "Collection 18",
+		"startDate": "2016-6-19",
+		"songs": [{
+			"title": "Stars",
+			"artist": "Future Generations",
+			"album": "Polysun",
+			"year": "2014",
+			"date": "2016-6-19",
+			"audioURL": "songs/Stars.mp3"
+		}, {
+			"title": "Crystallize",
+			"artist": "Fire In The Hamptons",
+			"album": "F.I.T.H.",
+			"year": "2012",
+			"date": "2016-6-20",
+			"audioURL": "songs/Crystallize.mp3"
+		}, {
+			"title": "Pastel Lights",
+			"artist": "Ishi",
+			"album": "Shake Your Remixes EP",
+			"year": "2010",
+			"date": "2016-6-21",
+			"audioURL": "songs/PastelLights.mp3"
+		}, {
+			"title": "XOXO",
+			"artist": "Cherub",
+			"album": "MoM & DaD",
+			"year": "2012",
+			"date": "2016-6-22",
+			"audioURL": "songs/XOXO.mp3"
+		}, {
+			"title": "While I'm Alive",
+			"artist": "STRFKR",
+			"album": "Miracle Mile",
+			"year": "2013",
+			"date": "2016-6-23",
+			"audioURL": "songs/WhileImAlive.mp3"
+		}, {
+			"title": "Digging Holes",
+			"artist": "Raglans",
+			"album": "Raglans",
+			"year": "2014",
+			"date": "2016-6-24",
+			"audioURL": "songs/DiggingHoles.mp3"
+		}, {
+			"title": "Congo",
+			"artist": "Bear Mountain",
+			"album": "XO",
+			"year": "2013",
+			"date": "2016-6-25",
+			"audioURL": "songs/Congo.mp3"
+		}, {
+			"title": "Argonauts",
+			"artist": "The Little Ones",
+			"album": "The Dawn Sang Along",
+			"year": "2013",
+			"date": "2016-6-26",
+			"audioURL": "songs/Argonauts.mp3"
+		}, {
+			"title": "Work",
+			"artist": "1,2,3",
+			"album": "New Heaven",
+			"year": "2011",
+			"date": "2016-6-27",
+			"audioURL": "songs/Work.mp3"
+		}, {
+			"title": "Take Off Your Shirt",
+			"artist": "Bibio",
+			"album": "Mind Bokeh",
+			"year": "2011",
+			"date": "2016-6-28",
+			"audioURL": "songs/TakeOffYourShirt.mp3"
+		}]
+	},	{
+		"week": "Collection 17",
+		"startDate": "2016-6-9",
+		"songs": [{
+			"title": "Matchstick",
+			"artist": "American Royalty",
+			"album": "Matchstick",
+			"year": "2012",
+			"date": "2016-6-9",
+			"audioURL": "songs/Matchstick.mp3"
+		}, {
+			"title": "Where The Kids Are",
+			"artist": "Blondfire",
+			"album": "Young Heart",
+			"year": "2014",
+			"date": "2016-6-10",
+			"audioURL": "songs/WhereTheKidsAre.mp3"
+		}, {
+			"title": "Clementine",
+			"artist": "Sarah Jaffe",
+			"album": "Suburban Nature",
+			"year": "2010",
+			"date": "2016-6-11",
+			"audioURL": "songs/Clementine.mp3"
+		}, {
+			"title": "Caught Me Thinkin",
+			"artist": "Bahamas",
+			"album": "Barchords",
+			"year": "2012",
+			"date": "2016-6-12",
+			"audioURL": "songs/CaughtMeThinking.mp3"
+		}, {
+			"title": "Heavy Metal Drummer",
+			"artist": "Wilco",
+			"album": "Yankee Hotel Foxtrot",
+			"year": "2002",
+			"date": "2016-6-13",
+			"audioURL": "songs/HeavyMetalDrummer.mp3"
+		}, {
+			"title": "Tickle",
+			"artist": "Eyes Lips Eyes",
+			"album": "What You Want [If You Want]",
+			"year": "2012",
+			"date": "2016-6-14",
+			"audioURL": "songs/Tickle.mp3"
+		}, {
+			"title": "Peoples",
+			"artist": "Cheers Elephant",
+			"album": "Like Wind Blows Fire",
+			"year": "2012",
+			"date": "2016-6-15",
+			"audioURL": "songs/Peoples.mp3"
+		}, {
+			"title": "Mtn Tune",
+			"artist": "Trails and Ways",
+			"album": "Trilingual",
+			"year": "2013",
+			"date": "2016-6-16",
+			"audioURL": "songs/MtnTune.mp3"
+		}, {
+			"title": "WHALE",
+			"artist": "Yellow Ostrich",
+			"album": "The Mistress",
+			"year": "2010",
+			"date": "2016-6-17",
+			"audioURL": "songs/WHALE.mp3"
+		}, {
+			"title": "Heart It Races",
+			"artist": "Architecture In Helsinki",
+			"album": "Places Like This",
+			"year": "2007",
+			"date": "2016-6-18",
+			"audioURL": "songs/HeartItRaces.mp3"
+		}]
+	},	{
 		"week": "Collection 16",
 		"startDate": "2016-5-30",
 		"songs": [{
@@ -73,7 +295,7 @@
 			"date": "2016-6-8",
 			"audioURL": "songs/MyLeather.mp3"
 		}]
-	}	,{
+	},	{
 		"week": "Collection 15",
 		"startDate": "2016-5-20",
 		"songs": [{
